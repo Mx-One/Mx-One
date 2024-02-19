@@ -1,7 +1,7 @@
 <h2 align="left">&nbsp; Hi there 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Max</a></h2>
 I'm a computer science student at Toronto Metropolian University. Passionate about building automation software for organizations.
 
-### 🛠 &nbsp;Tech Stack
+### &nbsp; 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
