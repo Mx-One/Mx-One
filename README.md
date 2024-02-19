@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Max</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Max</a></h1>
+I'm a computer science student at Toronto Metropolian University. Passionate about building automation software for organizations.
 
 ### 🛠 &nbsp;Tech Stack
 
