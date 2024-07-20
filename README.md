@@ -1,5 +1,5 @@
 <h2 align="left">&nbsp; Hi there 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Max</a></h2>
-I'm a Computer Science student at Toronto Metropolitan University, with a strong focus on creating automation software to streamline organizational processes.
+I'm a Computer Science graduate student at Georgia Institute of Technology, with a strong focus on creating automation software to streamline organizational processes.
 
 ### &nbsp; 🛠 &nbsp;Tech Stack
 
