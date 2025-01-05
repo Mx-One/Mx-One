@@ -26,3 +26,5 @@ I'm a Computer Science graduate student at Georgia Institute of Technology, with
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+<!-- Link for badges: // https://github.com/inttter/md-badges?tab=readme-ov-file#-programming-languages -->
