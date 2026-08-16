@@ -1,6 +1,6 @@
 <h2 align="leftt">Hi there 👋 I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Max</a></h2>
 <!-- I'm a Computer Science graduate student at Georgia Institute of Technology, with a strong focus on creating automation software to streamline organizational processes. -->
-I'm a Web Developer with experience in various tech stacks. I'm passionate about building beautiful websites and scalable applications that solve real-world problems. Currently pursuing MSc in Computer Science at Georgia Tech, I'm continuously expanding my knowledge in full-stack development, databases, and AI integration. Always curious, always building.
+I'm a Full-Stack Engineer with experience in various tech stacks. I'm passionate about building beautiful websites and scalable applications that solve real-world problems. Currently pursuing MSc in Computer Science at Georgia Tech, I'm continuously expanding my knowledge in full-stack development, databases, and AI integration. Always curious, always building.
 
 
 ### 🛠 &nbsp;Tech Stack
